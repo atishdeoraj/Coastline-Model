@@ -1,7 +1,7 @@
 # Coastline-Model
 This repository contains the files required to run the coastline model developed by Atish Deoraj. 
 
-*This software is free and and may be redistributed or modified to any extent by the user. This software has been developed for research purposes and
+*This code is free and and may be redistributed or modified to any extent by the user. The code has been developed for research purposes and
 the developers take no responsibility should the code not perform in the desired way.
 
 File Breakdown:
